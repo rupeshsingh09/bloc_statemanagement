@@ -1,16 +1,51 @@
-# bloc_learn
+# 🚀 Flutter BLoC State Management
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/Flutter-Framework-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
+![BLoC](https://img.shields.io/badge/State%20Management-BLoC-orange)
+![Architecture](https://img.shields.io/badge/Architecture-Clean--Architecture-green)
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 About
 
-A few resources to get you started if this is your first Flutter project:
+This project demonstrates **BLoC (Business Logic Component)** state management in Flutter using a clean and scalable architecture.
+It follows best practices for building production-ready applications.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Features
+
+* 🔹 State management using BLoC
+* 🔹 Clean Architecture implementation
+* 🔹 Separation of UI and business logic
+* 🔹 Scalable and maintainable code
+* 🔹 API integration (if used)
+
+---
+
+## 🛠 Tech Stack
+
+* 💙 Flutter
+* 🎯 Dart
+* 🔄 BLoC Pattern
+
+---
+
+## 📂 Project Structure
+
+```id="b8xkqv"
+lib/
+ ├── bloc/
+ ├── model/
+ ├── view/
+ ├── repository/
+ ├── utils/
+ ├── main.dart
+---
+
+## 🎯 Purpose
+
+This project is created for **learning and interview preparation** to understand scalable state management using BLoC in Flutter.
+
+
